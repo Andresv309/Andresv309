@@ -26,7 +26,7 @@
 
 # :pushpin: My skills set includes :telescope:
 
-### :rocket: Languages I have used:
+### :rocket: Languages familiar to me:
 <div align="left"> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -37,45 +37,32 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div> 
 
-### 👀 Fontend:
 
-<div align="left"> 
+### 🎆 Development:
+<div align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>  
-</div> 
-
-### 👨🏻‍💻 Backend:
-<div align="left"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="Express.js" height="40" /></a>  
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-</div>
 
-### 🎆 Frameworks:
-
-<div align="left"> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS" height="50" /></a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://astro.js.org/astro.png" alt="Astro" height="50" /></a>
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> 
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/4a338e49-8c92-4099-8f7f-5a0e9e45821b" alt=".NET" height="50" /></a> 
 </div>
 
 
-### 📖 Libraries:
+### 📖 Libraries and 🧰Tools:
 
 <div align="left"> 
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
+<a href="https://prettier.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://prettier.io/icon.png" alt="Prettier" height="50" /></a>
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Eslint" height="50" /></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" height="50" /></a>
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/p/59/prisma.svg" alt="Prisma ORM" height="50" /></a> 
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/82b7c614-3707-4b3f-bc56-8560d749c33b" alt="Prisma ORM" height="50" /></a> 
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://trpc.io/img/logo.svg" alt="tRPC" height="50" /></a> 
-</div>
-
-
-### 🧰 Tools:
-<div align="left"> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="50" /></a>  
@@ -87,6 +74,18 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://es.wikipedia.org/wiki/JSON" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/j/89/json.svg" alt="Json" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a> 
+<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/3a0147bd-5c69-4b5b-a43b-f41b1dc9a246" alt="React Query" height="50" /></a>
+<a href="https://excalidraw.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/60bd7b1e-0d5d-48a6-9b77-98a3b9a7fbd5" alt="Excalidraw" height="50" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/274f220a-f9be-49c6-b501-3be240b0879a" alt="Jira" height="50" /></a>
+<a href="https://zod.dev/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://zod.dev/logo.svg" alt="Zod" height="50" /></a>
+<a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/466995a1-7e02-4905-a4cc-38d83e1983a3" alt="React Hook Form" height="50" /></a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="Shadcn UI" height="50" /></a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" alt="Hibernate ORM" height="50" /></a>
+<a href="https://learn.microsoft.com/es-es/ef/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/6e91c9fe-295a-4907-bab9-4739c4f35d47" alt="Entity Framework ORM" height="50" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54469796?s=280&v=4" alt="Supabase" height="50" /></a>
+<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cloudinary-res.cloudinary.com/image/upload/website/cloudinary_web_favicon.png" alt="Cloudinary" height="50" /></a>
+<a href="https://planetscale.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/35612527?s=280&v=4" alt="Planetscale" height="50" /></a>
 </div>
 
 
@@ -97,9 +96,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" height="50" /></a>  
+<a href="https://es.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.com/Andresv309/Andresv309/assets/116861909/05690dc2-ac3b-4189-a02a-66ad6da049bb" alt="SQL Server" height="50" /></a>  
 </div>
 
----
 
 # ⚙️ GitHub Analytics
 
