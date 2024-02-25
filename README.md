@@ -27,228 +27,77 @@
 # :pushpin: My skills set includes :telescope:
 
 ### :rocket: Languages I have used:
-<tr>
-  <td>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
+<div align="left"> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+</div> 
 
 ### 👀 Fontend:
 
-<tr>
-  <td>
-    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
+<div align="left"> 
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>  
+</div> 
 
 ### 👨🏻‍💻 Backend:
-
-<tr>
-  <td>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" width="36" height="40" hspace="10" />
-    </a>
-  </td>
-    <td>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express logo" width="120" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
+<div align="left"> 
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="Express.js" height="40" /></a>  
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+</div>
 
 ### 🎆 Frameworks:
 
-<tr>
-  <td>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer">
-      <img src="https://astro.js.org/astro.png" alt="astro logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
+<div align="left"> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS" height="50" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://astro.js.org/astro.png" alt="Astro" height="50" /></a>
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> 
+</div>
+
 
 ### 📖 Libraries:
 
-<tr>
-  <td>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-      <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand logo" width="75" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.cdnlogo.com/logos/p/59/prisma.svg" alt="prisma orm logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
-      <img src="https://cdn.cdnlogo.com/logos/r/97/react-router.svg" alt="react router logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://trpc.io/" target="_blank" rel="noreferrer">
-      <img src="https://trpc.io/img/logo.svg" alt="tRPC logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
+<div align="left"> 
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Eslint" height="50" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" height="50" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/p/59/prisma.svg" alt="Prisma ORM" height="50" /></a> 
+<a href="https://trpc.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://trpc.io/img/logo.svg" alt="tRPC" height="50" /></a> 
+</div>
+
 
 ### 🧰 Tools:
+<div align="left"> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="50" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>  
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>  
+<a href="https://es.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/markdown-icon-512x512-bfxegudd.png" alt="Markdown" height="50" /></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://es.wikipedia.org/wiki/JSON" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/j/89/json.svg" alt="Json" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
 
-<tr>
-  <td>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/markdown-icon-512x512-bfxegudd.png" alt="markdown logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://es.wikipedia.org/wiki/JSON" target="_blank" rel="noreferrer">
-      <img src="https://cdn.cdnlogo.com/logos/j/89/json.svg" alt="json logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
 
 ### 🏬 Databases:
 
-<tr>
-  <td>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite logo" width="40" height="40" hspace="10" />
-    </a>
-  </td>
-</tr>
+<div align="left"> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="Maria DB" height="45" /></a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" height="50" /></a>  
+</div>
 
 ---
 
